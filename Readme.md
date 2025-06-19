@@ -22,7 +22,7 @@ this app for Fulfilled Technical Test at BTS.id
 - **Prisma ORM** + **MySQL**
 - **Joi** for validation
 - **Supertest** for integration testing
-- **Makrdown**  for API documentation
+- **Makrdown**  for API documentation [Click this to see Documentation](https://github.com/FachrulRH/Notes-App-BTS.id/tree/master/documentation)
 
 ---
 
