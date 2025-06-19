@@ -1,6 +1,6 @@
 # 📝 Notes App API
 
-A RESTful API for managing user-created notes and nested to-do lists built with **Node.js**, **Express**, **Prisma**, and **PostgreSQL**.
+A RESTful API for managing user-created notes and nested to-do lists built with **Node.js**, **Express**, **Prisma**, and **MySQL**.
 this app for Fulfilled Technical Test at BTS.id
 ---
 
